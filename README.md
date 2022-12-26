@@ -1,10 +1,10 @@
 # Properti.Assessment
 ##### We want to build a calculator in C#. It shall be able to handle
-• Summation
-• Multiplication • Division
-• Subtraction
-• Faculty
-• Fractions
+- Summation
+- Multiplication • Division
+- Subtraction
+- Faculty
+- Fractions
 
 
 *Please be aware that Properti.Assessment are only compatible with .NET 6.0.* 
