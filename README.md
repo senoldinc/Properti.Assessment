@@ -4,7 +4,9 @@
 - Multiplication • Division
 - Subtraction
 - Faculty
-- Fractions
+- Fractions...
+
+---
 
 
 *Please be aware that Properti.Assessment are only compatible with .NET 6.0.* 
