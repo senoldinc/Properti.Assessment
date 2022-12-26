@@ -32,4 +32,7 @@ Compile and run _(from the root path of the project)_:
 ```bash
 dotnet run
 ```
-
+Run tests _(from the root path of the test project)_:
+```bash
+dotnet test
+```
