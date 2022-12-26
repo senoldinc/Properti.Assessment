@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Properti.Assessment", "Properti.Assessment\Properti.Assessment.csproj", "{536FE5B3-0397-47E9-A0C8-57D2BDDDEF7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Properti.Assessment.Tests", "Properti.Assessment.Tests\Properti.Assessment.Tests.csproj", "{4F9C7FAB-FA67-45A8-A12F-E6EC5588AC37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{536FE5B3-0397-47E9-A0C8-57D2BDDDEF7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{536FE5B3-0397-47E9-A0C8-57D2BDDDEF7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{536FE5B3-0397-47E9-A0C8-57D2BDDDEF7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{536FE5B3-0397-47E9-A0C8-57D2BDDDEF7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F9C7FAB-FA67-45A8-A12F-E6EC5588AC37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F9C7FAB-FA67-45A8-A12F-E6EC5588AC37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F9C7FAB-FA67-45A8-A12F-E6EC5588AC37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F9C7FAB-FA67-45A8-A12F-E6EC5588AC37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

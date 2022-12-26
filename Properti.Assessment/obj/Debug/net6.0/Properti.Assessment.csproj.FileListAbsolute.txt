@@ -1,0 +1,15 @@
+/Users/senoldinc/Projects/Properti.Assessment/Properti.Assessment/bin/Debug/net6.0/Properti.Assessment
+/Users/senoldinc/Projects/Properti.Assessment/Properti.Assessment/bin/Debug/net6.0/Properti.Assessment.deps.json
+/Users/senoldinc/Projects/Properti.Assessment/Properti.Assessment/bin/Debug/net6.0/Properti.Assessment.runtimeconfig.json
+/Users/senoldinc/Projects/Properti.Assessment/Properti.Assessment/bin/Debug/net6.0/Properti.Assessment.dll
+/Users/senoldinc/Projects/Properti.Assessment/Properti.Assessment/bin/Debug/net6.0/Properti.Assessment.pdb
+/Users/senoldinc/Projects/Properti.Assessment/Properti.Assessment/obj/Debug/net6.0/Properti.Assessment.csproj.AssemblyReference.cache
+/Users/senoldinc/Projects/Properti.Assessment/Properti.Assessment/obj/Debug/net6.0/Properti.Assessment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/senoldinc/Projects/Properti.Assessment/Properti.Assessment/obj/Debug/net6.0/Properti.Assessment.AssemblyInfoInputs.cache
+/Users/senoldinc/Projects/Properti.Assessment/Properti.Assessment/obj/Debug/net6.0/Properti.Assessment.AssemblyInfo.cs
+/Users/senoldinc/Projects/Properti.Assessment/Properti.Assessment/obj/Debug/net6.0/Properti.Assessment.csproj.CoreCompileInputs.cache
+/Users/senoldinc/Projects/Properti.Assessment/Properti.Assessment/obj/Debug/net6.0/Properti.Assessment.dll
+/Users/senoldinc/Projects/Properti.Assessment/Properti.Assessment/obj/Debug/net6.0/refint/Properti.Assessment.dll
+/Users/senoldinc/Projects/Properti.Assessment/Properti.Assessment/obj/Debug/net6.0/Properti.Assessment.pdb
+/Users/senoldinc/Projects/Properti.Assessment/Properti.Assessment/obj/Debug/net6.0/Properti.Assessment.genruntimeconfig.cache
+/Users/senoldinc/Projects/Properti.Assessment/Properti.Assessment/obj/Debug/net6.0/ref/Properti.Assessment.dll
